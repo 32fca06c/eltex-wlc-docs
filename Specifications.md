@@ -9,10 +9,10 @@
     </tr>
     <tr>
       <td></td>
-      <td><img src="https:/api.prod.eltex-co.ru/storage/catalog/goods/51/WLC-15_front.png" width="100" alt="WLC-15"></td>
-      <td><img src="https:/api.prod.eltex-co.ru/storage/catalog/goods/113/WLC-30_front.png" width="100" alt="WLC-30"></td>
-      <td><img src="https:/api.prod.eltex-co.ru/storage/catalog/goods/156/WLC-3200_front.png" width="100" alt="WLC-3200"></td>
-      <td><img src="https:/api.prod.eltex-co.ru/storage/catalog/goods/474/vWLC.png" width="100" alt="vWLC"></td>
+      <td>![WLC-15](https:/api.prod.eltex-co.ru/storage/catalog/goods/51/WLC-15_front.png)</td>
+      <td>![WLC-30](https:/api.prod.eltex-co.ru/storage/catalog/goods/113/WLC-30_front.png)</td>
+      <td>![WLC-3200](https:/api.prod.eltex-co.ru/storage/catalog/goods/156/WLC-3200_front.png)</td>
+      <td>![vWLC](https:/api.prod.eltex-co.ru/storage/catalog/goods/474/vWLC.png)</td>
     </tr>
   </thead>
   <tbody>
