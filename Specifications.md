@@ -1,48 +1,7 @@
-<table>
-  <thead>
-    <tr>
-      <th>Характеристика</th>
-      <th>WLC-15</th>
-      <th>WLC-30</th>
-      <th>WLC-3200</th>
-      <th>vWLC</th>
-    </tr>
-    <tr>
-      <td></td>
-      <td>![WLC-15](https:/api.prod.eltex-co.ru/storage/catalog/goods/51/WLC-15_front.png)</td>
-      <td>![WLC-30](https:/api.prod.eltex-co.ru/storage/catalog/goods/113/WLC-30_front.png)</td>
-      <td>![WLC-3200](https:/api.prod.eltex-co.ru/storage/catalog/goods/156/WLC-3200_front.png)</td>
-      <td>![vWLC](https:/api.prod.eltex-co.ru/storage/catalog/goods/474/vWLC.png)</td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Подключение точек доступа</td>
-      <td>50</td>
-      <td>150</td>
-      <td>1000</td>
-      <td>15*</td>
-    </tr>
-    <tr>
-      <td>Подключение точек доступа по расширенной лицензии</td>
-      <td>100</td>
-      <td>500</td>
-      <td>3000</td>
-      <td>5000</td>
-    </tr>
-    <tr>
-      <td>Количество SoftGRE туннелей</td>
-      <td>100</td>
-      <td>600</td>
-      <td>4000</td>
-      <td>?</td>
-    </tr>
-    <tr>
-      <td>Максимальное количество обслуживаемых клиентов</td>
-      <td>2000</td>
-      <td>5000</td>
-      <td>30000</td>
-      <td>?</td>
-    </tr>
-  </tbody>
-</table>
+| Характеристика | WLC-15 | WLC-30 | WLC-3200 | vWLC |
+|----------------|--------|--------|----------|------|
+| | ![WLC-15](https://eltex-co.ru/_ipx/w_1536&f_webp/https:/api.prod.eltex-co.ru/storage/catalog/goods/51/WLC-15_front.png) | ![WLC-30](https://eltex-co.ru/_ipx/w_1536&f_webp/https:/api.prod.eltex-co.ru/storage/catalog/goods/113/WLC-30_front.png) | ![WLC-3200](https://eltex-co.ru/_ipx/w_1536&f_webp/https:/api.prod.eltex-co.ru/storage/catalog/goods/156/WLC-3200_front.png) | ![vWLC](https://eltex-co.ru/_ipx/w_1536&f_webp/https:/api.prod.eltex-co.ru/storage/catalog/goods/474/vWLC.png) |
+| Подключение точек доступа | 50 | 150 | 1000 | 15* |
+| Подключение точек доступа по расширенной лицензии | 100 | 500 | 3000 | 5000 |
+| Количество SoftGRE туннелей | 100 | 600 | 4000 | ? |
+| Максимальное количество обслуживаемых клиентов | 2000 | 5000 | 30000 | ? |
