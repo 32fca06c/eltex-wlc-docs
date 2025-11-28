@@ -63,3 +63,52 @@ wlc
   exit
 exit
 ```
+
+```shell
+wlc
+  radio-2g-profile default_2g
+    description "default_2g"
+    work-mode nax
+    tx-power minimal
+    rates-supported 12,18,24,36,48,54
+    rates-basic 12,24
+  exit
+  radio-5g-profile default_5g
+    description "default_5g"
+    work-mode anacax
+    dfs auto
+    tx-power low
+    limit-channels 36,40,44,48,52,56,60,64,132,136,140,144,149,153,157,161,165
+    rates-supported 12,18,24,36,48,54
+    rates-basic 12,24
+  exit
+exit
+```
+
+```shell
+wlc
+  airtune
+   enable
+  exit
+exit
+```
+
+```shell
+wlc
+  outside-address %ip_wlc%
+exit
+```
+
+```shell
+wlc
+ service-activator
+   aps join auto
+ exit
+exit
+```
+
+```shell
+wlc
+  enable
+exit
+```
