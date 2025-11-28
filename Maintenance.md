@@ -46,4 +46,16 @@ exit
 |      | 1.19.0  |
 |      | 1.15.3  |
 
+## Обновление ПО точек доступа
+```
+copy https://api.prod.eltex-co.ru:/storage/upload_center/files/50/WEP-30L-2.8.2_build_36.tar.gz system:access-points-firmwares
+copy usb://FIRMWARE:/WEP-2ac-1.25.4.9.tar.gz system:access-points-firmwares
+```
+
+## Обновление ПО контроллера
+```
+copy https://api.prod.eltex-co.ru:/storage/upload_center/files/55/wlc30-1.30.8-build3.firmware system:firmware
+copy usb://FIRMWARE:/wlc30-1.30.8-build3.firmware system:firmware
+boot system inactive
+reload system
 ```
