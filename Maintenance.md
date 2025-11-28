@@ -67,6 +67,8 @@ copy https://api.prod.eltex-co.ru:/storage/upload_center/files/55/wlc30-1.30.8-b
 ```
 ```
 copy usb://FIRMWARE:/wlc30-1.30.8-build3.firmware system:firmware
+```
+```
 boot system inactive
 reload system
 ```
