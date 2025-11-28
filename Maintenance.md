@@ -13,8 +13,8 @@ qemu-system-x86_64 \
   -device e1000,netdev=net0 \
   -vnc :0 \
 ```
-`%iso_path%`  - 
-`%image_path%`  - 
+`%iso_path%` -   
+`%image_path%` -   
 
 ## Включение виртуального консольного порта  
 ```
