@@ -7,6 +7,13 @@
       <th>WLC-3200</th>
       <th>vWLC</th>
     </tr>
+    <tr>
+      <td></td>
+      <td><img src="https:/api.prod.eltex-co.ru/storage/catalog/goods/51/WLC-15_front.png" width="100" alt="WLC-15"></td>
+      <td><img src="https:/api.prod.eltex-co.ru/storage/catalog/goods/113/WLC-30_front.png" width="100" alt="WLC-30"></td>
+      <td><img src="https:/api.prod.eltex-co.ru/storage/catalog/goods/156/WLC-3200_front.png" width="100" alt="WLC-3200"></td>
+      <td><img src="https:/api.prod.eltex-co.ru/storage/catalog/goods/474/vWLC.png" width="100" alt="vWLC"></td>
+    </tr>
   </thead>
   <tbody>
     <tr>
@@ -14,7 +21,7 @@
       <td>50</td>
       <td>150</td>
       <td>1000</td>
-      <td>0</td>
+      <td>15*</td>
     </tr>
     <tr>
       <td>Подключение точек доступа по расширенной лицензии</td>
